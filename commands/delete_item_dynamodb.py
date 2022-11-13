@@ -13,6 +13,7 @@ class DeleteItemDynamoDB:
             {"name": "joao"}
         ]
     }
+    test PR
     """
 
     def __init__(self, file):
