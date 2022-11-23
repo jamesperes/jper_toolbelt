@@ -1,5 +1,3 @@
-Projeto para salvar pequenas automacoes.
+Projeto para salvar pequenas automacoes baseadas em arquivos de JSON.
 
      - DeleteItemDynamoDB
-
-teste
